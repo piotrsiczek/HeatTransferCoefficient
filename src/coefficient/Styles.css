@@ -1,0 +1,41 @@
+/* 
+    Document   : Styles
+    Created on : 2013-07-12, 21:39:41
+    Author     : piotr
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+/*.root { -fx-font: 18px "Comic Sans MS"; }*/
+.column-header-background { -fx-background-color: azure; }
+.row6 { -fx-background-color: orange; }
+.row3 { -fx-background-color: yellowgreen; }
+.row0 { -fx-background-color: forestgreen; }
+.row4 { -fx-background-color: palegreen; }
+.table-row-cell:empty { -fx-background-color: azure; }
+.table-row-cell:empty .table-cell { -fx-border-width: 0px; }
+
+/** Draws focus border around tableview */
+.table-view:focused {
+    -fx-background-color: -fx-focus-color,-fx-box-border,-fx-control-inner-background;
+    -fx-background-insets: 0, 0, 0;
+    -fx-background-radius: 0, 0, 0;
+
+    /* There is some oddness if padding is in em values rather than pixels,
+       in particular, the left border of the control doesn't show. */
+    -fx-padding: 1; /* 0.083333em; */
+}
+/** Draws focus border around tableview */
+.activecomponent {
+    -fx-background-color: -fx-focus-color,-fx-box-border,-fx-control-inner-background;
+    -fx-background-insets: -1.4, 0, 1;
+    -fx-background-radius: 1.4, 0, 0;
+
+    /* There is some oddness if padding is in em values rather than pixels,
+       in particular, the left border of the control doesn't show. */
+    -fx-padding: 1; /* 0.083333em; */
+}

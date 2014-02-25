@@ -1,0 +1,14 @@
+tynk cem.-wap. ;0.82
+mur z cegły dziurawki na zaprawie cem.-wap.;0.62
+mur z cegły ceram. pelnej na zaprawie cem.-wap.;0.77
+mur z cegly kratowki na zaprawie cem.-wap.;0.56
+tynk cementowy;1.0
+gladz cementowa;1.0
+styropian ;0.038
+welna mineralna;0.042
+welna mineralna granulat;0.043
+pianka pir;0.025
+polistyren ekstrudowany;0.035
+płyta żelbetowa kanałowa;1.33
+mur z betonu komórkowego;0.25
+żelbet;1.7

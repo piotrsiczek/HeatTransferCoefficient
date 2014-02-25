@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="145.00009999999747" prefWidth="258.0000999999975" xmlns:fx="http://javafx.com/fxml" fx:controller="coefficient.Dialog">
+  <children>
+    <TableView fx:id="table" layoutX="14.0" layoutY="34.0" prefHeight="66.0" prefWidth="228.0" />
+    <AnchorPane prefHeight="34.0" prefWidth="400.0" AnchorPane.bottomAnchor="166.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <children>
+        <Label alignment="CENTER" contentDisplay="CENTER" layoutX="41.0" layoutY="12.0" text="Kierunek strumienia cieplnego">
+          <font>
+            <Font name="Calibri Bold" size="14.0" />
+          </font>
+        </Label>
+      </children>
+    </AnchorPane>
+    <Button fx:id="CancelButton" layoutX="188.0" layoutY="110.0" mnemonicParsing="false" onAction="#cancelButtonOnClick" text="Anuluj" />
+  </children>
+</AnchorPane>
