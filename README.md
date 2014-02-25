@@ -11,3 +11,5 @@ Application to calculate the heat transfer coefficient for the building partitio
 * determining the direction of heat flow
 * determining the insulation layer
 * calculating the adjusted heat transfer coefficient
+* importing data from excel
+* exporting data to excel
