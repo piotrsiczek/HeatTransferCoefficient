@@ -13,3 +13,8 @@ Application to calculate the heat transfer coefficient for the building partitio
 * calculating the adjusted heat transfer coefficient
 * importing data from excel
 * exporting data to excel
+
+![](http://www.piter.webd.pl/apps/heat_transfer_coefficient/app1.jpg)
+
+![](http://www.piter.webd.pl/apps/heat_transfer_coefficient/app2.jpg)
+
