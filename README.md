@@ -17,4 +17,3 @@ Application to calculate the heat transfer coefficient for the building partitio
 ![](http://www.piter.webd.pl/apps/heat_transfer_coefficient/app1.jpg)
 
 ![](http://www.piter.webd.pl/apps/heat_transfer_coefficient/app2.jpg)
-
